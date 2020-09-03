@@ -1,3 +1,4 @@
+#/bin/bash
 #Debugging Mode
 #set -xv
 
